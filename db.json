@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
+      "title": "Ninja Style",
       "id": 1
     },
     {
@@ -11,6 +11,22 @@
     {
       "title": "Python",
       "id": 4
+    },
+    {
+      "title": "Cool Reader",
+      "id": 5
+    },
+    {
+      "title": "Javascript",
+      "id": 6
+    },
+    {
+      "title": "Tonny 4 fingers",
+      "id": 7
+    },
+    {
+      "title": "Peace for Peace",
+      "id": 8
     }
   ]
 }
